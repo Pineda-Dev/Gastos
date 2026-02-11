@@ -1,1 +1,5 @@
 export { default as App } from "./App"
+export * as HomeTemplate from "./components/templates/HomeTemplate"
+export * as LoginTemplate from "./components/templates/LoginTemplate"
+export * as Login from "./pages/Login"
+export * as routes from "./routers/routes"
